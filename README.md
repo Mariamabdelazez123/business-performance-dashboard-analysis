@@ -27,9 +27,10 @@ The goal is to go beyond basic KPI tracking and provide a complete data-driven s
 ## 🛠️ Tools Used
 - Power BI  
 - Excel
+- Power Queiry
+- Data Modelling
 - ح
-- حخ 
-
+- ح
 ---
 
 ## 📊 Key Metrics
